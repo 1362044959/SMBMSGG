@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebContent/statics/css/style.css=UTF-8
+encoding//src/dao/bill/BillMapper.java=UTF-8
+encoding//src/dao/provider/ProviderMapper.java=UTF-8
+encoding//src/entity/Bill.java=UTF-8
+encoding//src/entity/Provider.java=UTF-8
+encoding//src/entity/Role.java=UTF-8
+encoding//src/entity/User.java=UTF-8
+encoding//src/service/bill/BillService.java=UTF-8
+encoding//src/service/provider/ProviderService.java=UTF-8
+encoding//src/servlet/provider/providerServlet.java=UTF-8
+encoding//src/tools/PageSupport.java=UTF-8
